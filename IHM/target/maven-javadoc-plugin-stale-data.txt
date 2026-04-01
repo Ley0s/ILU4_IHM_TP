@@ -1,0 +1,43 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+24
+-sourcepath
+'Z:/ILU4/IHM/ILU4_IHM_TP/IHM/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'Z:/ILU4/IHM/ILU4_IHM_TP/IHM/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'IHM 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'IHM 1.0-SNAPSHOT API'
+com.mycompany.ihm
+Z:\ILU4\IHM\ILU4_IHM_TP\IHM\src\main\java = 1774263140750
+Z:\ILU4\IHM\ILU4_IHM_TP\IHM\target\reports\apidocs\allclasses-index.html = 1774263639429
+Z:\ILU4\IHM\ILU4_IHM_TP\IHM\target\reports\apidocs\allpackages-index.html = 1774263639476
+Z:\ILU4\IHM\ILU4_IHM_TP\IHM\target\reports\apidocs\element-list = 1774263638976
+Z:\ILU4\IHM\ILU4_IHM_TP\IHM\target\reports\apidocs\help-doc.html = 1774263639804
+Z:\ILU4\IHM\ILU4_IHM_TP\IHM\target\reports\apidocs\index-all.html = 1774263639679
+Z:\ILU4\IHM\ILU4_IHM_TP\IHM\target\reports\apidocs\index.html = 1774263639757
+Z:\ILU4\IHM\ILU4_IHM_TP\IHM\target\reports\apidocs\member-search-index.js = 1774263639601
+Z:\ILU4\IHM\ILU4_IHM_TP\IHM\target\reports\apidocs\module-search-index.js = 1774263639523
+Z:\ILU4\IHM\ILU4_IHM_TP\IHM\target\reports\apidocs\overview-tree.html = 1774263639367
+Z:\ILU4\IHM\ILU4_IHM_TP\IHM\target\reports\apidocs\package-search-index.js = 1774263639554
+Z:\ILU4\IHM\ILU4_IHM_TP\IHM\target\reports\apidocs\search.html = 1774263639710
+Z:\ILU4\IHM\ILU4_IHM_TP\IHM\target\reports\apidocs\serialized-form.html = 1774263639117
+Z:\ILU4\IHM\ILU4_IHM_TP\IHM\target\reports\apidocs\tag-search-index.js = 1774263639632
+Z:\ILU4\IHM\ILU4_IHM_TP\IHM\target\reports\apidocs\type-search-index.js = 1774263639585
